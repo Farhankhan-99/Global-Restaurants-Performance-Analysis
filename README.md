@@ -16,23 +16,23 @@ Identify market patterns, service gaps, pricing dynamics, cuisine performance, a
 
 ## 📌 Key Insights
 
-### 1️⃣ Service Adoption
+### 1️ Service Adoption
 - 67% restaurants offer no service (delivery/booking missing).
 - Restaurants with both services score **3.6★**, far above no-service restaurants **2.4★**.
 
-### 2️⃣ Pricing & Quality
+### 2️ Pricing & Quality
 - Excellent-rated restaurants: **₹661 avg**
 - Good-rated: **₹439 avg**
 
-### 3️⃣ Geography
+### 3️ Geography
 - India: **8652 restaurants**, avg rating **2.52★**
 - Global top cities: **Inner City (4.9★)**, **Quezon City (4.8★)**
 
-### 4️⃣ Cuisine Impact
+### 4️ Cuisine Impact
 - North Indian is the most common cuisine (936 restaurants).
 - Multi-cuisine restaurants show better ratings than single-cuisine.
 
-### 5️⃣ Market Structure
+### 5️ Market Structure
 - Cheap (Budget) category = **52%** of all restaurants.
 
 ---
